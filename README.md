@@ -40,6 +40,8 @@ Cursos presenciais e digitais: 15 graduações, 25 MBAs e diversos cursos remoto
 
 5 bolsas de graduação ou MBA em qualquer curso da universidade, à escolha do beneficiado, para os 5 melhores colocados nesse desafio.
 
+OBS: Os prêmios serão entregues ao final da Maratona e o pré-requisito é: os 8 desafios devem ser submetidos até 10/09/2020.
+
 ## 2. Desafio de negócio
 
 O desafio consiste em criar uma ferramenta capaz de acelerar e dinamizar os processos de aprendizagem, ajudando estudantes a encontrar outras fontes de pesquisa, novos conteúdos, exemplos e modelos para seus estudos. Utilizando linguagem natural a ferramenta será capaz de buscar e sugerir conteúdos alternativos, como vídeos, podcasts, e-books e demais fontes de informações, para que estudantes possam aprofundar seus estudos a partir de indicações de texto do próprio estudante.
