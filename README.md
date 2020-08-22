@@ -38,7 +38,7 @@ Cursos presenciais e digitais: 15 graduações, 25 MBAs e diversos cursos remoto
 
 ### 1.2. Premiação
 
-5 bolsas de graduação ou MBA em qualquer curso da universidade, à escolha do beneficiado, para os 5 melhores colocados.
+5 bolsas de graduação ou MBA em qualquer curso da universidade, à escolha do beneficiado, para os 5 melhores colocados nesse desafio.
 
 ## 2. Desafio de negócio
 
